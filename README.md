@@ -1,5 +1,4 @@
-# Cat_Dog-Classifier
-Cat or Dog classifier using CNN
+# Cat or Dog classifier using CNN
 
 Training and Test set contains 4000 images of Cat and Dog each.
 
