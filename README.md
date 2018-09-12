@@ -6,3 +6,8 @@ Run File Cat_Dog.py to train model and predict images.
 New images to predict should be stored in single_prediction folder.
 
 I have stored pre-trained model Cat_Dog_Classifier2.h5 and same is loaded for predicting new images.
+
+## How to Run Program
+Run `Cat_Dog.py` file.
+
+To predict new image. Put it inside `single_prediction` folder.
